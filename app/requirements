@@ -1,2 +1,5 @@
 Sphinx==7.1.1
 sphinx-autoapi
+pydantic
+Flask==2.3.2
+flask-openapi3
